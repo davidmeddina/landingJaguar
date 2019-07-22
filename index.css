@@ -3,3 +3,23 @@ body{
   background-size: cover;
   height: 100%;
 }
+
+.container{
+  max-width: 600px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 25px;
+  margin:  50px 20px  0px 50px ;
+  font-weight: 700;
+}
+
+.btn-page{
+  background-color: #DB3030;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 8px 14px;
+  font-weight: bold;
+}
